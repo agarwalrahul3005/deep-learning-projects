@@ -1,0 +1,32 @@
+# macOS system files
+.DS_Store
+
+# Python virtual environments
+env/
+venv/
+ENV/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# PyCharm/VSCode project files (optional, useful if you use these)
+.idea/
+.vscode/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.so
+
+# Logs
+*.log
+
+# OS trash
+.Trashes
+.Spotlight-V100
+
+# Temporary files
+*.swp
+*.tmp
+*.bak
